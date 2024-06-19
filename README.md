@@ -4,5 +4,5 @@
 - **Roll No:** 230601043
 - **Year:**	I
 - **Semester:**	II
-- - **Branch:** B.E CIVIL ENGINEERING
+- **Branch:** B.E CIVIL ENGINEERING
 - **Academic Year:**	2023-2024
